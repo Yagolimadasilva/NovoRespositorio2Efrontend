@@ -1,4 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Winky+Sans:ital,wght@0,300..900;1,300..900&display=swap');
+
+
 body{
-    background-color: rgb(26, 146, 238);
+    background-color: rgb(30, 90, 202);
     color: rgb(246, 246, 255);
+
+}
+
+.conteiner{
+max-width: 960;
+margin: 20px auto;
+background-color: aliceblue;
+border-radius: 5px;
+box-shadow: 0 0 10px black(0,0,0,1);
+position: relative; /*necessário para o menu flutuante*/
 }
